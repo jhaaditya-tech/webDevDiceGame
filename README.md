@@ -6,3 +6,7 @@
 >Consists up of two dices - Player 1 and Player 2;
 >When refreshed, doce get thrown randomly and the winner is chosen based on the value of the dice;
 >The winner is selected based on the value of the Dice
+
+>Use the link below to play the game:
+https://jhaaditya-tech.github.io/webDevDiceGame/
+
